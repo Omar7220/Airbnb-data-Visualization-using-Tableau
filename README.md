@@ -1,4 +1,4 @@
-Airbnb Data Dashboard Use Cases
+#Airbnb Data Dashboard Use Cases
 Welcome to our Airbnb Data Dashboard! Here are some common questions our dashboard can help you answer:
 
 1. Where is the Best Place to Start an Airbnb Business?
